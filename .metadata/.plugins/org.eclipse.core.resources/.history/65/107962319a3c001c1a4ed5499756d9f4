@@ -1,0 +1,11 @@
+package com.medipol.odevlerim;
+import java.lang.Math;
+import java.util.Scanner;
+
+public class ikinciDerecedenKokBulma {
+
+	public static void main(String[] args) {
+
+	}
+
+}
